@@ -11,3 +11,9 @@
 ## loginSystem.py
 
 ### Completed
+
+## rps.py
+
+### Todo
+
+[ ] Finish testing with different testing values
