@@ -22,6 +22,6 @@
 
 ### Todo
 
-[ ] Create basic outline
-[ ] Make sure everything is working
-[ ] Test using different test values
+[X] Create basic outline<br />
+[X] Make sure everything is working<br />
+[X] Test using different test values<br />
