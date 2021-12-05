@@ -17,3 +17,11 @@
 ### Todo
 
 [ ] Finish testing with different testing values
+
+## encrypt.py
+
+### Todo
+
+[ ] Create basic outline
+[ ] Make sure everything is working
+[ ] Test using different test values
